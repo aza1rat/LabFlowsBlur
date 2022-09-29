@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab17-Flows Kashitsin</string>
+    <string name="start">Запуск</string>
+    <string name="stop">Стоп</string>
+    <string name="matrix">Матрица</string>
+    <string name="flows">Потоков</string>
+    <string name="type_blur">Тип размытия</string>
+    <string name="box_blur">Box blur</string>
+    <string name="gaussian_blur">Gaussian Blur</string>
+    <string name="time_processing">Время на обработку</string>
+</resources>
